@@ -1,0 +1,29 @@
+
+
+========================================================================
+IN:  夏は水のじょうはつがはやいので、ぬれたタオルもすぐ乾いてしまう。
+OUT: In the summer the water is quick, so wet towels will dry out soon.
+
+========================================================================
+IN:  私は仕事の都合で帰宅時間が不規則で、早く帰ることもあれば、夜中になることもある。
+OUT: I am irregular on my returning home due to work circumstances, I may return early, sometimes it will be midnight.
+
+========================================================================
+IN:  彼女の顔からは何も読み取れなかった。
+OUT: I could not read anything from her face.
+
+========================================================================
+IN:  このプロジェクトのどんな点を見て、そんなに初期の段階からかかわることにされたのですか？
+OUT: What point of the project did you decide to involve so early?
+
+========================================================================
+IN:  彼は自分の寝室に入り、内側からドアを閉めた。
+OUT: He entered his bedroom and closed the door from the inside.
+
+========================================================================
+IN:  花から離れるのは木ではない、花が木から離れるのだ。
+OUT: It is not a tree to leave the flower, the flowers leave the tree.
+
+========================================================================
+IN:  昨日の朝からなにも食べていないものです。
+OUT: I have not eaten anything since yesterday morning.
